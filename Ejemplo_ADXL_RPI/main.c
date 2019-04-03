@@ -11,6 +11,7 @@
  * 
  * cuando uso gpio gcc -o spi main.c communication.h communication.c ADXL355.c ADXL355.h bcm2835.h bcm2835.c
 
+git test
 
  * 
  *****************************************************************************/
